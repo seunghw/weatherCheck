@@ -13,7 +13,7 @@ export default function App() {
       </Text>
 
       <Text style={[t.flex1, t.bgPurple600, t.p6]}>
-        Open up App.js to start working on your app!
+        Open up App.js to start working on your app!!
       </Text>
     </View>
   );
