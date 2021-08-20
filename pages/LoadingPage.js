@@ -5,7 +5,7 @@ import { t } from "react-native-tailwindcss";
 export default function LoadingPage() {
   return (
     <View style={[t.bgYellow300, t.flex1, t.justifyEnd]}>
-      <Text style={[t.p20, t.textXl]}>Getting the weather here</Text>
+      <Text style={[t.p22, t.textXl]}>Getting the weather here</Text>
     </View>
   );
 }
