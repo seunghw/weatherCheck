@@ -41,7 +41,7 @@ export default function App(props) {
 
         getweather(latitude, longitude);
         setLocation(location);
-        setuserState(true);
+        setuserState(false);
         //
       } catch (error) {
         Alert.alert("Can't find you", "so sad");
