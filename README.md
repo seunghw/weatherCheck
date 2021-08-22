@@ -2,7 +2,21 @@
 
 ## 🎬 Demo
 
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.08.41.png" width="200px">
+### 로딩화면
+
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/master/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-23%20at%2000.08.22.png" width="110px">
+
+### 날씨별 화면
+
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.08.41.png" width="110px">
+
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.20.38.png" width="110px">
+
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.13.45.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.14.07.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.19.42.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.10.28.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.20.14.png" width="110px">
 
 ## 🎯 설명
 
