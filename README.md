@@ -1,23 +1,12 @@
-# weatherCheck
-
-- rn
-- tailwind
-
-- LoadingPage
-- ClearPage
-
-- ip-api 사용(본인 위치정보 찾기 위해서.)
-- uiGradient(배경색 정하기 위해서.)
-
 # 🌈 weatherCheck
 
 ## 🎬 Demo
 
-<img src="https://user-images.githubusercontent.com/70190106/129467024-4346c42b-c6fe-46d1-9923-5209c9169dc4.gif">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.08.41.png" width="200px">
 
 ## 🎯 설명
 
-Learning React Native by building a weatherCheck
+React Native과 tailwind, expo를 이용하여 날씨 어플 만들기
 
 ## 🚀 주요 스택
 
