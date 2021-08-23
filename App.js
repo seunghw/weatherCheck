@@ -4,8 +4,7 @@ import Weather from "./components/Weather";
 import * as Location from "expo-location";
 import { Alert } from "react-native";
 import axios from "axios";
-
-const API_KEY = "d59268c795345c88056a0309aa4b551e";
+import { API_KEY } from "./config";
 
 export default function App(props) {
   const [location, setLocation] = useState(null); // 위치정보
@@ -25,8 +24,6 @@ export default function App(props) {
       setcondition(data.weather[0].main);
       setcountry(data.sys.country);
       setcity(data.name);
-      console.log(country);
-      console.log(city);
     };
 
     const getLocation = async () => {
@@ -41,19 +38,18 @@ export default function App(props) {
 
         getweather(latitude, longitude);
         setLocation(location);
-        setuserState(false);
         //
       } catch (error) {
         Alert.alert("Can't find you", "so sad");
       }
 
-      // let timer = setTimeout(() => {
-      //   // 시간체크
-      //   setuserState(false);
-      // }, 1800); // 약 2초 뒤에 상태변경
-      // return () => {
-      //   clearTimeout(timer); // 깔끔하게 제거
-      // };
+      let timer = setTimeout(() => {
+        // 시간체크
+        setuserState(false);
+      }, 1800); // 약 2초 뒤에 상태변경
+      return () => {
+        clearTimeout(timer); // 깔끔하게 제거
+      };
     };
 
     getLocation();
