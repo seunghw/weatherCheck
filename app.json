@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "사용자의 날씨에 따라 ui가 변하는 어플리케이션",
+    "githubUrl": "https://github.com/seunghw/weatherCheck"
   }
 }

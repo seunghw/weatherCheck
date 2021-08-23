@@ -1,26 +1,34 @@
 # 🌈 weatherCheck
 
+expo Link : [체험하기](https://expo.dev/@seunghw/weatherCheck)
+
 ## 🎬 Demo
 
 ### 로딩화면
 
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/master/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-23%20at%2000.08.22.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/master/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-23%20at%2000.08.22.png" width="300px">
 
 ### 날씨별 화면
 
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.08.41.png" width="110px">
-
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.20.38.png" width="110px">
-
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.13.45.png" width="110px">
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.14.07.png" width="110px">
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.19.42.png" width="110px">
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.10.28.png" width="110px">
-<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-22%20at%2023.20.14.png" width="110px">
+<img  src="https://raw.githubusercontent.com/seunghw/weatherCheck/main/img/all.png" width="900px">
 
 ## 🎯 설명
 
 React Native과 tailwind, expo를 이용하여 날씨 어플 만들기
+
+## 🖱 사용방법
+
+프로젝트 사용시
+
+```javacript
+
+yarn run ios
+
+```
+
+expo 사용시
+
+https://expo.dev/@seunghw/weatherCheck
 
 ## 🚀 주요 스택
 
